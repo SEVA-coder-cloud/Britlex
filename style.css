@@ -144,7 +144,7 @@ body {
   margin: 0 auto;
 }
 
-.header-britlex {
+.header__britlex {
   width: 1600px;
   height: 100px;
   display: flex;
@@ -154,18 +154,18 @@ body {
   gap: 200px;
 }
 
-.header-logo {
+.header__logo {
   font-size: 36px;
   color: rgb(0, 0, 0);
   margin-left: -90px;
 }
 
-.header-logo-second {
+.header__logo-second {
   font-size: 36px;
   color: rgb(238, 238, 238);
 }
 
-.header-nav-menu {
+.header__nav-menu {
   display: flex;
   width: 772px;
   height: 30px;
@@ -173,12 +173,12 @@ body {
   gap: 30px;
 }
 
-.header-nav-menu > a {
+.header__nav-menu > a {
   color: rgb(38, 50, 56);
   text-decoration: none;
 }
 
-.header-button {
+.header__button {
   width: 220px;
   height: 70px;
   border-radius: 5px;
